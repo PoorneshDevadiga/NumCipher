@@ -135,4 +135,4 @@ Make it better.
 
 ## 🌐 Live Demo
 
-[![Play Now](https://img.shields.io/badge/Play-NumCipher-00e5ff?style=for-the-badge)](https://PoorneshDevadiga.github.io/numcipher/)
+[![Play Now](https://img.shields.io/badge/Play-NumCipher-00e5ff?style=for-the-badge)](https://poorneshdevadiga.github.io/NumCipher/)
