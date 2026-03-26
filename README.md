@@ -132,3 +132,7 @@ Don’t just upload projects — **build something worth attention**.
 
 This is a good start. Not impressive yet.
 Make it better.
+
+## 🌐 Live Demo
+
+[![Play Now](https://img.shields.io/badge/Play-NumCipher-00e5ff?style=for-the-badge)](https://PoorneshDevadiga.github.io/numcipher/)
